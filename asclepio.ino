@@ -125,6 +125,7 @@ String formatAgo(unsigned long entryMs) {
 void handleRoot() {
   String html = "<!DOCTYPE html><html><head><meta charset='utf-8'>";
   html += "<meta name='viewport' content='width=device-width, initial-scale=1'>";
+  html += "<meta http-equiv='refresh' content='15'>";
   html += "<title>Asclepio</title>";
   html += "<style>";
   html += "*{box-sizing:border-box;}";
