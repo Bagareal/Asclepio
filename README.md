@@ -2,7 +2,8 @@
 
 <p align="center">
   A self-hosted UPS companion that wakes your homelab servers back up when the power returns.
-  <img width="487" height="377" alt="Simage" src="https://github.com/user-attachments/assets/0181607c-94c3-421a-a201-05ddc8fdaf9a" /> <br>
+  <img width="605" height="570" alt="image" src="https://github.com/user-attachments/assets/14f9d216-3460-4168-838e-b287ba91032b" />
+ <br>
   <img width="502" height="1001" alt="image" src="https://github.com/user-attachments/assets/6397e839-801e-428d-8ee1-d435362e2f76" />
 
 </p>
